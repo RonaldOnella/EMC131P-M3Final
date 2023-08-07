@@ -1,0 +1,419 @@
+{
+	"textures": [
+		{
+			"image": "jump.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 459,
+				"h": 37
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "jumpr1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 19,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 37
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 37
+					},
+					"frame": {
+						"x": 27,
+						"y": 0,
+						"w": 14,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 37
+					},
+					"frame": {
+						"x": 54,
+						"y": 0,
+						"w": 13,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 37
+					},
+					"frame": {
+						"x": 81,
+						"y": 0,
+						"w": 14,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 37
+					},
+					"frame": {
+						"x": 108,
+						"y": 0,
+						"w": 15,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 37
+					},
+					"frame": {
+						"x": 135,
+						"y": 0,
+						"w": 22,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 162,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 189,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 189,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 37
+					},
+					"frame": {
+						"x": 216,
+						"y": 0,
+						"w": 27,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 243,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 270,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 270,
+						"y": 0,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 297,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					},
+					"frame": {
+						"x": 324,
+						"y": 0,
+						"w": 25,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 37
+					},
+					"frame": {
+						"x": 351,
+						"y": 0,
+						"w": 23,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 37
+					},
+					"frame": {
+						"x": 378,
+						"y": 0,
+						"w": 23,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 18,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 18,
+						"h": 37
+					},
+					"frame": {
+						"x": 405,
+						"y": 0,
+						"w": 18,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jumpr19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 37
+					},
+					"frame": {
+						"x": 432,
+						"y": 0,
+						"w": 16,
+						"h": 37
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ebe6aee83472d07150fb2fb04ea02e33:7f367dbabafc2afc4ac33bef8c3388a4:56c9fa24931e40777fe0ddacfe328adf$"
+	}
+}
